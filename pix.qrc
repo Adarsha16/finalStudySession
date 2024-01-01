@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>pics/1_forest.jpg</file>
+        <file>pics/2_snow.jpg</file>
+        <file>pics/study_2.jpg</file>
+        <file>pics/zhangjiajie.jpg</file>
+        <file>pics/turkey.jpg</file>
+        <file>pics/mountyoshino.jpg</file>
+        <file>pics/mountfuji.jpg</file>
+        <file>pics/mountains.jpg</file>
+        <file>pics/meguro_river.jpg</file>
+        <file>pics/himalayas.jpg</file>
+        <file>pics/forestred.jpg</file>
+    </qresource>
+</RCC>
